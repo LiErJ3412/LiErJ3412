@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm LiErJ</h1>
-<h3 align="center">A Student Of Cryptographic Science and Technology in Nankai University.</h3>
+<h3 align="center">A Student major in Cryptographic Science and Technology in Nankai University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lierj3412&label=Profile%20views&color=eb0505&style=flat-square" alt="lierj3412" /> </p>
 
