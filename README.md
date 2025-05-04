@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lierj3412&label=Profile%20views&color=eb0505&style=flat-square" alt="lierj3412" /> </p>
 
-- 🌱 I’m currently learning **Quic Protocol and MPC(安全多方计算)**
+- 🌱 I’m currently learning **MCP Protocol and MPC(安全多方计算)**
 
 - 💬 Ask me about **CTF crypto and things about study)**
 
